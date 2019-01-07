@@ -1,2 +1,2 @@
 # typescript-todo-list
-todo list persisted in localStorage
+simple todo list persisted in localStorage.
